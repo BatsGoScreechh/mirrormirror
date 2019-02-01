@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    width: 900px;
+}
+
+#article1{
+    width: 50%;
+    border: 1px solid red;
+
+}
+
+#article2{
+    width: 50%;
+    border:1px solid blue;
+}
+
+#message {
+    margin: auto;
+}
